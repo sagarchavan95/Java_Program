@@ -11,5 +11,7 @@ public class Assignment11 {
         float celsius;
         celsius=((Fahrenheit-30)*5)/9;
         System.out.println(+celsius);
+        
+        System.out.println("hii");
     }
 }
