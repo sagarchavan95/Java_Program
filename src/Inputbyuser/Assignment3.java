@@ -9,7 +9,6 @@ public class Assignment3 {
         Scanner sc=new Scanner(System.in);
         double x=sc.nextDouble();
         double y=sc.nextDouble();
-        //int z;
         double z=x*y;
         System.out.println("Double :"+z);
         System.out.println((int)z);
