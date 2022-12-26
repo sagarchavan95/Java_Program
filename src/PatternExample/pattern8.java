@@ -15,7 +15,7 @@ public class pattern8 {
                 System.out.print(" ");
             }
             for (int star = 1; star <= row; star++) {
-                System.out.print("*");
+                System.out.print("**");
             }
             System.out.println();
         }
